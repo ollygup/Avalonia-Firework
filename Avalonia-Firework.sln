@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia-Firework", "Avalonia-Firework.csproj", "{C3678082-0A80-4AB1-B061-86612B1C89A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3678082-0A80-4AB1-B061-86612B1C89A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3678082-0A80-4AB1-B061-86612B1C89A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3678082-0A80-4AB1-B061-86612B1C89A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3678082-0A80-4AB1-B061-86612B1C89A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBD515C-3634-4E02-8913-B53EC1E43ACD}
+	EndGlobalSection
+EndGlobal
